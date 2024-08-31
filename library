@@ -1,1 +1,1449 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _DERVLBtyoGDr = a; end)); return(function(h,...)local e;local o;local r;local l;local s;local c;local n=24915;local t=0;local d={};while t<508 do t=t+1;while t<0x1a2 and n%0x2e18<0x170c do t=t+1 n=(n*783)%31835 local a=t+n if(n%0x4504)>0x2282 then n=(n+0x1e)%0x1aa9 while t<0x2ff and n%0x1c94<0xe4a do t=t+1 n=(n-978)%11478 local e=t+n if(n%0x1e6a)>=0xf35 then n=(n+0x373)%0x9a7c local e=85459 if not d[e]then d[e]=0x1 end elseif n%2~=0 then n=(n-0xb7)%0xa03a local e=82068 if not d[e]then d[e]=0x1 o=string;end else n=(n*0x171)%0x363a t=t+1 local e=19084 if not d[e]then d[e]=0x1 l=getfenv and getfenv();end end end elseif n%2~=0 then n=(n-0x2ef)%0x13cf while t<0xd2 and n%0x2af8<0x157c do t=t+1 n=(n-775)%31929 local r=t+n if(n%0x19a0)<=0xcd0 then n=(n+0x1b9)%0x1a89 local n=94993 if not d[n]then d[n]=0x1 c=function(t)local n=0x01 local function d(e)n=n+e return t:sub(n-e,n-0x01)end while true do local t=d(0x01)if(t=="\5")then break end local n=o.byte(d(0x01))local n=d(n)if t=="\2"then n=e.TcPeCsSy(n)elseif t=="\3"then n=n~="\0"elseif t=="\6"then l[n]=function(n,e)return h(8,nil,h,e,n)end elseif t=="\4"then n=l[n]elseif t=="\0"then n=l[n][d(o.byte(d(0x01)))];end local t=d(0x08)e[t]=n end end end elseif n%2~=0 then n=(n*0x353)%0xc31a local n=23156 if not d[n]then d[n]=0x1 e={};end else n=(n+0x275)%0x7935 t=t+1 local e=52497 if not d[e]then d[e]=0x1 end end end else n=(n*0x69)%0x2bf6 t=t+1 while t<0x216 and n%0x34ec<0x1a76 do t=t+1 n=(n*39)%40326 local e=t+n if(n%0x3c64)>0x1e32 then n=(n+0x3d)%0x7b09 local e=16202 if not d[e]then d[e]=0x1 r="\4\8\116\111\110\117\109\98\101\114\84\99\80\101\67\115\83\121\0\6\115\116\114\105\110\103\4\99\104\97\114\83\75\107\69\88\72\113\101\0\6\115\116\114\105\110\103\3\115\117\98\68\117\81\89\85\89\88\108\0\6\115\116\114\105\110\103\4\98\121\116\101\68\104\71\118\112\106\70\88\0\5\116\97\98\108\101\6\99\111\110\99\97\116\75\108\73\85\67\71\66\101\0\5\116\97\98\108\101\6\105\110\115\101\114\116\79\108\114\71\67\72\65\90\5";end elseif n%2~=0 then n=(n+0x1f7)%0x745f local e=91192 if not d[e]then d[e]=0x1 s=tonumber;end else n=(n+0x186)%0x65db t=t+1 local e=46432 if not d[e]then d[e]=0x1 l=(not l)and _ENV or l;end end end end end n=(n*185)%12245 end c(r);local t={};for n=0x0,0xff do local e=e.SKkEXHqe(n);t[n]=e;t[e]=n;end local function f(e)return t[e];end local r=(function(r,o)local a,d=0x01,0x10 local t={{},{},{}}local l=-0x01 local n=0x01 local c=r while true do t[0x03][e.DuQYUYXl(o,n,(function()n=a+n return n-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""d=0x000 break end end local l=#o while n<l+0x01 do t[0x02][d]=e.DuQYUYXl(o,n,(function()n=a+n return n-0x01 end)())d=d+0x01 if d%0x02==0x00 then d=0x00 e.OlrGCHAZ(t[0x01],(f((((t[0x03][t[0x02][0x00]]or 0x00)*0x10)+(t[0x03][t[0x02][0x01]]or 0x00)+c)%0x100)));c=r+c;end end return e.KlIUCGBe(t[0x01])end);c(r(63,"dg{F1sQ/c :R%bH0%FcQ/sF10:RRR{/cL0bQ %scg1bbsggg*gbs%{/F1g0b:Rc0{s %s%1b{%Hg:{cF{svR%Q HH/:  :Qp{g0<H-QHF/gI%1 %1/R1/QQc{HH%Hbc 1F{g%/cF1 Fccg11F:0FR:/b1/{:H0R/c{jRbQR1k0bg%1c 1/{c0{%QcHF bb:Hc%b% HcHsQgQgc:cc%ssucRR/HQ.: QRsb{gb0R0 sssicb{:s1QN%/QFc{/H :0c01RPcH/RQQb{1%g1F</0QRc/sF%0R%bR/cg1F0R 1cQg/ {ss1Fu%%sc/sb1 &<% Qj{FHs%g{.H{b  Qsc1 g bH /F1gc:%c%Hb:0 0s0{&ggH1:RQ/v1H% 01QR:/%Qb{%H%0g Q1FF:%{ {Q{{cc/1:F:0bR:cgQ^gFHg:0QF1s0bRsgsb/%HcQ1b11g(%F/g1:H:%/ QH{:1 Qscg/H :// 1#5H%gQb1T:0/gQ{{cH:%% QQ%gH%R :Q/g:/%FHFF0{R1RQ/ {/%HcbQQg10<1 Pb0:R0/R1g0HVQRrQggHH1:b/R1c csR1 gm%H gQsFQ0sb{c%ss<FR:{QHcbH HsRs:V(bbQbF00:b/ :0FRs:RQb{%gRH /%sc{/b9csQ/%McF/FFc0FR   Q1{HbcR:cgF>0F1HyHw{0::g/1gF0{Rb/c1/  s 1R{HHHbsccFc0sb/c{H1:1 //{1%gR%%:FFQg%Hw{0H0H1R0/b1g{/Rb Hs0{H/:F:FAF7%1RQs}pgbgRRQc%sc///FR0bbg FsRFH0::1QFFQ {sF11aF-H R/%g%bH%{cF1  Hs0sggg0:R:cb1 0g%b/:sQ::QRs%g%KRR  1s:{c%//Q1:RQ//Q {c{/%0:s/1{oHR: QH%{cs/1FF0cR%RssbF/0F %/cg{Vgs(gF*g%gc11Q1 b::bQR1{g_%Hc{bH 0 FsgF1HbbQ F1HmR::cQH::R RQgs/gHRR %s EF% cc0QR/:RQHQs0HH:cR1/r{H%: q{%FR//c1HF bH %/b1Kb :a*H%0%{cWQ/{1Hs 0cF1H0:Rbg:bRbF F {{sgQ%QQ/{:0gbg{QH/b% bcLF10%bsc{F{0bbsF{0FHc:1/%s%^S%4c0/g0b%gFH000s:0cg/:Ksbs ks/{c%01:3:Bg){R{csFIHcR%/HgF ssQ1c_ !0 H/01 bb%1cg{e:gQ{scgQ(1R%QbF%gcb1 1Fb:bQHQggH0%b  yF 0sRHcQ10R /:Qb{%{ % :h/F- b{:%/F%c"));c(r(146,"S d%ZL/r4qPgDn=#/==dgndDq4#nrJnr=dgyd#qL{/r/g=d#qP#nrN)PZ4r4=rD_d 4nj/rZn=%DD%InPr= r#D==rLq%dPdIrrP==%gP/ rqL=grnnnd=L4DDPr /4d=rLPD DnP%lL4/=%L/DZ%4P#  /=#gZ D#DD%= Lrr#4LP/L%PPC;#qt#//DDg rPD#n/PDP/=/4n=g% %qG#rLnnP%Lg/  4h#4L#=d qgr#n/ZnL%n=%nDZnNP4r#%rdngZDrg#D/L=rL#g4 =D%#gdPq4rqn ZrDHd4P #gL4g/dr4#_4dDqq%#=RZnP/dgPL=/L4D4=4LP%Zqn-#r==PZ#Dddq4d# L%D Z qDBnq P5 %#_ZggP%dqqP44L=DLDggdgP #=L4D#Ldgdd%4q_n 444/LDD%Dqgbg4 # ZLDP%44/ y/d#/#4/rZ,gw L44#D/4ngZd4D#L/##%Zq/PnPgL L4P# LnnDZ/P##=//#dLZg#dZZ/g44## rdnZn#P=ddq%N rdnPZrD  =4g=//%Dd=%"));local n=(-e.kpFLQLGO+(function()local c,l=e.Co_lgTwL,e.OCCcDicz;(function(e,t,n,d)n(t(e,d,e,e),n(n,e,e and e,e),d(e,t,n,t),d(n,n and e,n,n and e))end)(function(t,n,d,o)if c>e.FuBJbUlV then return t end c=c+e.OCCcDicz l=(l-e.vQJgLGLz)%e.BdhoyAKh if(l%e.V_rycFVs)>=e.yHkseWYz then return o else return t(t(n and n,d,t and n,n and o),d(t,n,t,t),o(d,n,n,d),n(t,o,d,n and o))end return d(t(o,n,t,n and d),t(n and t,d,n,d and d)and d(d,n,o,o),o(n and n,t,d,d)and n(t,o,t,t),n(n,d,t,o))end,function(n,t,d,o)if c>e.ShgYbtTY then return o end c=c+e.OCCcDicz l=(l+e.VQMkyoeA)%e.EnwxoGxH if(l%e.GrhpFHId)>e.fuyqMpCb then return t else return n(n(n,t,d,o),n(d,t,o,n),t(n,o,n,n),t(d,d,n,n))end return d(o(d,d,t,n),d(t,t and o,n,t),d(d,d and t,n,t),n(o,o,o,n and o))end,function(o,d,t,n)if c>e.asytPwiO then return d end c=c+e.OCCcDicz l=(l-e.tXDzAP_d)%e.UGTaTulc if(l%e.lwiVnMiw)<=e.DARXeWBT then return o(n(o,n,d,n and d),o(t,t and d,n,n),t(t,n,d,t),n(n,t and t,d,d and o))else return t end return o end,function(d,o,n,t)if c>e.ZcxiUcoa then return t end c=c+e.OCCcDicz l=(l-e.wyfLJbOj)%e.xaQMRZgs if(l%e.IYWsltaW)>e.qVrARLhj then l=(l*e.erD_mUIj)%e.U_hQrxfh return t(t(t,n and o,t,n and n),n(n,d,d,d and n),d(t,n,o and n,n),d(d,o,o,t))else return t end return t end)return l;end)())local ne=(getfenv)or(function()return _ENV end);local u=e.mSjjJfJp or e.ZFOdVYQg;local a=e.kQcA_icq;local ee=e.OCCcDicz;local c=e.TSykZVwa;local l=e.MftdzLqt;local function _(g,...)local r=r(n,"K2<4t9GSRy6F(d!L634<(FGtLLyd<L(RG2t<iS6&49699(Ut<F(L9FLtRdR9n4ydt4!xGLL!(yGSLGGSLd(t!d6F2dFGtL4(!yR4<GG(tF!SR429Gy9yd(RS(dFG92!SR95L6G90d6S<(SFSt<!GS4(tR6t9d!SGLtyL4GR(9Fd24ydtGyg<yFyF<!d4Gty64F(6G4L(A2yd<R(tG(NGyd<d(F9dy2t2(296L4dyyt<d(9t4!!R9266SG2LRRR<GFR9d(FR92yF<t(!!96<GFL9GSL6t6LtR!2!<RS<gF992F24LdR6ytt!SR2dt6Gt2!9S<2Ry!t6!2G(2<y(t2dySR&<6tt4yGGtZy6ELF6(G4{9y94((FG!!tyL<Fd<9dLLy!L<y99R(4RR<GF(<RFd9(!dR(9,!F9<2LR4<4F(9G2FR4tFF4tF296L2dFRtR29R22(6FRS LF!OL6Ft6N!SG2tdFtSddS<4!dGS<aSS9:!6tGddtS2Edd<46(Ly!{y6<4SLdySU2yyGtL(ySIty94<Lyy2LdyEGGL(R!4SFLGy1y9G<G(MG6L9yF<29RL2R6<4(699!!RS<O(29<!FRt2!FGtL!Ry4<(F4t(!9Rt2SFPtyLtRx2t6dtG!2SR2266Gy!SS9{!6StGdyS41F6S4dd6S!DR6246dyG(hGy!4S!GGyo<yF49(dGGLL664L(6G4L(y6<!(SGc1FyF<F(99dL6RL<R(2S6N6R(<GF!9RL.R6<<(dS2!dRy2LFL92!6R42((Gt!!RRv2(F<tF!tSd<d6LtR!2S6246!t9d!R62c6yt<d(Stn!6G4L!<S2n6644dd9G!=S6C");local t=e.Co_lgTwL;e.hXqMyEuV(function()e.nyeTDGAL()t=t+e.OCCcDicz end)local function n(e,n)if n then return t end;t=e+t;end local d,t,f=h(e.Co_lgTwL,h,n,r,e.DhGvpjFX);local function o()local d,t=e.DhGvpjFX(r,n(e.OCCcDicz,e.MftdzLqt),n(e.OLOtIiiw,e.uHyRBQzf)+e.TSykZVwa);n(e.TSykZVwa);return(t*e.IJQsnWUg)+d;end;local b=true;local b=e.Co_lgTwL local function k()local n=t();local t=t();local c=e.OCCcDicz;local l=(d(t,e.OCCcDicz,e.zFfEFiin)*(e.TSykZVwa^e.ZYkfMhTo))+n;local n=d(t,e._LfkxVDW,e.oVkydnko);local t=((-e.OCCcDicz)^d(t,e.ZYkfMhTo));if(n==e.Co_lgTwL)then if(l==b)then return t*e.Co_lgTwL;else n=e.OCCcDicz;c=e.Co_lgTwL;end;elseif(n==e.oVojRmFt)then return(l==e.Co_lgTwL)and(t*(e.OCCcDicz/e.Co_lgTwL))or(t*(e.Co_lgTwL/e.Co_lgTwL));end;return e.xiGnQPBx(t,n-e.uEWTjwtg)*(c+(l/(e.TSykZVwa^e.TLtpjfD_)));end;local y=t;local function z(t)local d;if(not t)then t=y();if(t==e.Co_lgTwL)then return'';end;end;d=e.DuQYUYXl(r,n(e.OCCcDicz,e.MftdzLqt),n(e.OLOtIiiw,e.uHyRBQzf)+t-e.OCCcDicz);n(t)local n=""for t=(e.OCCcDicz+b),#d do n=n..e.DuQYUYXl(d,t,t)end return n;end;local b=#e.RSGGYFI_(s('\49.\48'))~=e.OCCcDicz local n=t;local function p(...)return{...},e.pkLFdXUL('#',...)end local function j()local n={};local r={};local s={};local h={s,r,nil,n};local n=t()local u={}for l=e.OCCcDicz,n do local d=f();local t;if(d==e.OCCcDicz)then t=(f()~=#{});elseif(d==e.Co_lgTwL)then local n=k();if b and e.hnwkZyQq(e.RSGGYFI_(n),'.(\48+)$')then n=e.lkwfeRaR(n);end t=n;elseif(d==e.TSykZVwa)then t=z();end;u[l]=t;end;for n=e.OCCcDicz,t()do r[n-(#{e.OCCcDicz})]=j();end;for h=e.OCCcDicz,t()do local n=f();if(d(n,e.OCCcDicz,e.OCCcDicz)==e.Co_lgTwL)then local r=d(n,e.TSykZVwa,e.MftdzLqt);local f=d(n,e.kQcA_icq,e.uHyRBQzf);local n={o(),o(),nil,nil};if(r==e.Co_lgTwL)then n[l]=o();n[a]=o();elseif(r==#{e.OCCcDicz})then n[l]=t();elseif(r==g[e.TSykZVwa])then n[l]=t()-(e.TSykZVwa^e.kqMmiRWU)elseif(r==g[e.MftdzLqt])then n[l]=t()-(e.TSykZVwa^e.kqMmiRWU)n[a]=o();end;if(d(f,e.OCCcDicz,e.OCCcDicz)==e.OCCcDicz)then n[c]=u[n[c]]end if(d(f,e.TSykZVwa,e.TSykZVwa)==e.OCCcDicz)then n[l]=u[n[l]]end if(d(f,e.MftdzLqt,e.MftdzLqt)==e.OCCcDicz)then n[a]=u[n[a]]end s[h]=n;end end;h[e.MftdzLqt]=f();return h;end;local function _(d,t,n)local l=t;local l=n;return s(e.hnwkZyQq(e.hnwkZyQq(({e.hXqMyEuV(d)})[e.TSykZVwa],t),n))end local function m(y,n,s)local function m(...)local r,m,o,_,g,d,f,k,b,z,j,t;local n=e.Co_lgTwL;while-e.OCCcDicz<n do if e.MftdzLqt>n then if e.Co_lgTwL<n then if-e.OCCcDicz<n then repeat if e.TSykZVwa~=n then o=h(e.uHyRBQzf,e.mEpPKEnj,e.MftdzLqt,e.JtXUuwOU,y);g=p _=e.Co_lgTwL;break;end;d=-e.WSSLoydf;f=-e.OCCcDicz;until true;else o=h(e.uHyRBQzf,e.mEpPKEnj,e.MftdzLqt,e.JtXUuwOU,y);g=p _=e.Co_lgTwL;end else r=h(e.uHyRBQzf,e.vHxgGIOn,e.OCCcDicz,e.XKRjVEOf,y);m=h(e.uHyRBQzf,e.HgJIWxCF,e.TSykZVwa,e.AyCRLRbH,y);end else if e.kQcA_icq<n then if n>=e.kQcA_icq then repeat if n>e.OLOtIiiw then n=-e.TSykZVwa;break;end;t=h(e.wfxbYlmA);until true;else n=-e.TSykZVwa;end else if n>e.Co_lgTwL then for t=e.xFfoBhdB,e.aXHVqlkS do if e.MftdzLqt~=n then z=e.pkLFdXUL('#',...)-e.OCCcDicz;j={};break;end;k={};b={...};break;end;else k={};b={...};end end end n=n+e.OCCcDicz;end;for n=e.Co_lgTwL,z do if(n>=o)then k[n-o]=b[n+e.OCCcDicz];else t[n]=b[n+e.OCCcDicz];end;end;local n=z-o+e.OCCcDicz local n;local o;local function h(...)while true do end end while true do if d<-e.Mi_GBJQY then d=d+e.nMcuJRkq end n=r[d];o=n[ee];if 12<=o then if 17>=o then if o>14 then if o>=16 then if 16==o then if(t[n[c]]~=n[a])then d=d+1;else d=n[l];end;else s[n[l]]=t[n[c]];end else d=n[l];end else if 12>=o then s[n[l]]=t[n[c]];else if 10~=o then for e=10,98 do if 14~=o then t[n[c]]=(n[l]~=0);break;end;t[n[c]]=s[n[l]];break;end;else t[n[c]]=s[n[l]];end end end else if o>=21 then if o<22 then local e=n[c]local d,n=g(t[e](u(t,e+1,n[l])))f=n+e-1 local n=0;for e=e,f do n=n+1;t[e]=d[n];end;else if 20<=o then repeat if 23>o then do return end;break;end;local e=n[c]t[e]=t[e](u(t,e+1,f))until true;else do return end;end end else if o<19 then local d=n[c];local e=t[n[l]];t[d+1]=e;t[d]=e[n[a]];else if 16<o then repeat if 19<o then d=n[l];break;end;t[n[c]]();until true;else t[n[c]]();end end end end else if o>=6 then if o<=8 then if o<=6 then t[n[c]]=s[n[l]];else if o~=4 then for e=43,88 do if 8~=o then local e=n[c];local d=t[n[l]];t[e+1]=d;t[e]=d[n[a]];break;end;for e=0,3 do if e>=2 then if 3==e then if(t[n[c]]~=n[a])then d=d+1;else d=n[l];end;else t[n[c]]=s[n[l]];d=d+1;n=r[d];end else if-4<e then for o=47,89 do if 1>e then t[n[c]]=(n[l]~=0);d=d+1;n=r[d];break;end;s[n[l]]=t[n[c]];d=d+1;n=r[d];break;end;else t[n[c]]=(n[l]~=0);d=d+1;n=r[d];end end end break;end;else local e=n[c];local d=t[n[l]];t[e+1]=d;t[e]=d[n[a]];end end else if 9>=o then local e,h,b,y,o;t[n[c]]=s[n[l]];d=d+1;n=r[d];e=n[c];h=t[n[l]];t[e+1]=h;t[e]=h[n[a]];d=d+1;n=r[d];t(n[c],n[l]);d=d+1;n=r[d];e=n[c]b,y=g(t[e](u(t,e+1,n[l])))f=y+e-1 o=0;for e=e,f do o=o+1;t[e]=b[o];end;d=d+1;n=r[d];e=n[c]t[e]=t[e](u(t,e+1,f))d=d+1;n=r[d];t[n[c]]();d=d+1;n=r[d];do return end;else if o==10 then if(t[n[c]]~=n[a])then d=d+1;else d=n[l];end;else local o,f,d,r,a;local e=0;while e>-1 do if e>=3 then if e>=5 then if e>3 then repeat if e~=5 then e=-2;break;end;t(a,r);until true;else t(a,r);end else if-1~=e then repeat if e~=4 then r=o[d];break;end;a=o[f];until true;else r=o[d];end end else if e<=0 then o=n;else if-2<e then for n=12,57 do if 2~=e then f=c;break;end;d=l;break;end;else d=l;end end end e=e+1 end end end end else if 2<o then if 3>=o then do return end;else if o==5 then local o,a,d,f,r;local e=0;while e>-1 do if e<3 then if e>0 then if-1~=e then repeat if e~=1 then d=l;break;end;a=c;until true;else d=l;end else o=n;end else if e>=5 then if 5<e then e=-2;else t(r,f);end else if 4~=e then f=o[d];else r=o[a];end end end e=e+1 end else local e=n[c]t[e]=t[e](u(t,e+1,f))end end else if o>=1 then if o>-2 then repeat if o>1 then local e=n[c]local d,n=g(t[e](u(t,e+1,n[l])))f=n+e-1 local n=0;for e=e,f do n=n+1;t[e]=d[n];end;break;end;t[n[c]]=(n[l]~=0);until true;else t[n[c]]=(n[l]~=0);end else t[n[c]]();end end end end d=1+d;end;end;return m end;local l=0xff;local f={};local r=(1);local c='';(function(t)local d=t local o=0x00 local n=0x00 d={(function(a)if o>0x2e then return a end o=o+1 n=(n+0xc43-a)%0x38 return(n%0x03==0x1 and(function(e)if not t[e]then n=n+0x01 t[e]=(0x69);end return true end)'hqmhL'and d[0x2](0x148+a))or(n%0x03==0x0 and(function(e)if not t[e]then n=n+0x01 t[e]=(0x98);c='\37';l={function()l()end};c=c..'\100\43';end return true end)'wPUJB'and d[0x1](a+0x36a))or(n%0x03==0x2 and(function(d)if not t[d]then n=n+0x01 t[d]=(0x2a);c={c..'\58 a',c};f[r]=j();r=r+((not e.rLOLAFrB)and 1 or 0);c[1]='\58'..c[1];l[2]=0xff;end return true end)'Bn_jg'and d[0x3](a+0x12e))or a end),(function(e)if o>0x2a then return e end o=o+1 n=(n+0x11de-e)%0x1b return(n%0x03==0x1 and(function(e)if not t[e]then n=n+0x01 t[e]=(0x7c);end return true end)'pPwML'and d[0x1](0x3cb+e))or(n%0x03==0x0 and(function(e)if not t[e]then n=n+0x01 t[e]=(0x53);f[r]=ne();r=r+l;end return true end)'KWilf'and d[0x2](e+0xd8))or(n%0x03==0x2 and(function(e)if not t[e]then n=n+0x01 t[e]=(0x65);end return true end)'rlPar'and d[0x3](e+0x247))or e end),(function(e)if o>0x26 then return e end o=o+1 n=(n+0x1086-e)%0xd return(n%0x03==0x1 and(function(e)if not t[e]then n=n+0x01 t[e]=(0xa9);end return true end)'gxWfQ'and d[0x3](0x98+e))or(n%0x03==0x0 and(function(e)if not t[e]then n=n+0x01 t[e]=(0x1d);end return true end)'OBZmT'and d[0x1](e+0x1ce))or(n%0x03==0x2 and(function(e)if not t[e]then n=n+0x01 t[e]=(0xa6);l[2]=(l[2]*(_(function()f()end,u(c))-_(l[1],u(c))))+1;f[r]={};l=l[2];r=r+l;end return true end)'KSwdS'and d[0x2](e+0x2e5))or e end)}d[0x1](0x187a)end){};local e=m(u(f));return e(...);end return _((function()local t={}local n=0x01;local d;if e.rLOLAFrB then d=e.rLOLAFrB(_)else d=''end if e.hnwkZyQq(d,e.SPScKoaD)then n=n+0;else n=n+1;end t[n]=0x02;t[t[n]+0x01]=0x03;return t;end)(),...)end)((function(e,n,t,d,l,c)local c;if e>3 then if e>=6 then if 6<e then if 3<e then repeat if 8>e then do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,d,n)if n then return e[n]elseif d then return e else e[l]=t end end})end break;end;do return t(e,nil,t);end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,d,n)if n then return e[n]elseif d then return e else e[l]=t end end})end end else do return l[t]end;end else if e>=1 then for c=42,87 do if e>4 then local e=d;do return function()local n=n(t,e(e,e),e(e,e));e(1);return n;end;end;break;end;local e=d;local d,l,r=l(2);do return function()local c,t,n,o=n(t,e(e,e),e(e,e)+3);e(4);return(o*d)+(n*l)+(t*r)+c;end;end;break;end;else local e=d;local o,r,c=l(2);do return function()local d,l,t,n=n(t,e(e,e),e(e,e)+3);e(4);return(n*o)+(t*r)+(l*c)+d;end;end;end end else if e>=2 then if 1<=e then repeat if 3~=e then do return 16777216,65536,256 end;break;end;do return n(1),n(4,l,d,t,n),n(5,l,d,t)end;until true;else do return 16777216,65536,256 end;end else if 1>e then do return n(1),n(4,l,d,t,n),n(5,l,d,t)end;else do return function(n,e,t)if t then local e=(n/2^(e-1))%2^((t-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end end end end),...)
+local DRR = {};
+DRR["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"));
+DRR["1"]["IgnoreGuiInset"] = true;
+DRR["1"]["ScreenInsets"] = Enum.ScreenInsets.DeviceSafeInsets;
+DRR["1"]["Name"] = [[DevHub]];
+DRR["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+DRR["2"] = Instance.new("Frame", DRR["1"]);
+DRR["2"]["BorderSizePixel"] = 0;
+DRR["2"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["2"]["LayoutOrder"] = 2;
+DRR["2"]["Size"] = UDim2.new(0.5404488444328308, 0, 0.1739015281200409, 0);
+DRR["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["2"]["Position"] = UDim2.new(0.23000000417232513, 0, -0.1899999976158142, 0);
+DRR["2"]["Name"] = [[TopBar]];
+DRR["3"] = Instance.new("UICorner", DRR["2"]);
+DRR["3"]["CornerRadius"] = UDim.new(0.10000000149011612, 0);
+DRR["4"] = Instance.new("ScrollingFrame", DRR["2"]);
+DRR["4"]["Active"] = true;
+DRR["4"]["ScrollingDirection"] = Enum.ScrollingDirection.Y;
+DRR["4"]["BorderSizePixel"] = 0;
+DRR["4"]["CanvasSize"] = UDim2.new(0.10000000149011612, 0, 0, 0);
+DRR["4"]["BackgroundColor3"] = Color3.fromRGB(26, 26, 36);
+DRR["4"]["AutomaticCanvasSize"] = Enum.AutomaticSize.X;
+DRR["4"]["BackgroundTransparency"] = 1;
+DRR["4"]["Size"] = UDim2.new(0.915977954864502, 0, 0.5196850299835205, 0);
+DRR["4"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["4"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["4"]["ScrollBarThickness"] = 0;
+DRR["4"]["Position"] = UDim2.new(0, 0, 0.4803149700164795, 0);
+DRR["5"] = Instance.new("UIListLayout", DRR["4"]);
+DRR["5"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DRR["5"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DRR["5"]["Padding"] = UDim.new(0.009999999776482582, 0);
+DRR["5"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+DRR["6"] = Instance.new("UIPadding", DRR["4"]);
+DRR["6"]["PaddingLeft"] = UDim.new(0.014999999664723873, 0);
+DRR["7"] = Instance.new("Frame", DRR["2"]);
+DRR["7"]["ZIndex"] = 0;
+DRR["7"]["BorderSizePixel"] = 0;
+DRR["7"]["BackgroundTransparency"] = 1;
+DRR["7"]["Size"] = UDim2.new(1, 0, 1, 0);
+DRR["7"]["Name"] = [[DropShadowHolder]];
+DRR["8"] = Instance.new("ImageLabel", DRR["7"]);
+DRR["8"]["ZIndex"] = 0;
+DRR["8"]["BorderSizePixel"] = 0;
+DRR["8"]["SliceCenter"] = Rect.new(49, 49, 450, 450);
+DRR["8"]["ScaleType"] = Enum.ScaleType.Slice;
+DRR["8"]["ImageColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["8"]["ImageTransparency"] = 0.5;
+DRR["8"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DRR["8"]["Image"] = [[rbxassetid://6014261993]];
+DRR["8"]["Size"] = UDim2.new(1, 47, 1, 47);
+DRR["8"]["Name"] = [[DropShadow]];
+DRR["8"]["BackgroundTransparency"] = 1;
+DRR["8"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DRR["9"] = Instance.new("UIGradient", DRR["2"]);
+DRR["9"]["Rotation"] = 90;
+DRR["9"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(139, 139, 139)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["a"] = Instance.new("Frame", DRR["2"]);
+DRR["a"]["BorderSizePixel"] = 0;
+DRR["a"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["a"]["LayoutOrder"] = 2;
+DRR["a"]["Size"] = UDim2.new(0.9983566999435425, 0, 0.05511785298585892, 0);
+DRR["a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["a"]["Position"] = UDim2.new(0, 0, 0.4645671844482422, 0);
+DRR["a"]["Name"] = [[TopBar]];
+DRR["b"] = Instance.new("UIGradient", DRR["a"]);
+DRR["b"]["Rotation"] = -90;
+DRR["b"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(139, 139, 139)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["c"] = Instance.new("Frame", DRR["2"]);
+DRR["c"]["BorderSizePixel"] = 0;
+DRR["c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["c"]["BackgroundTransparency"] = 1;
+DRR["c"]["Size"] = UDim2.new(0.9983566999435425, 0, 0.4645672142505646, 0);
+DRR["c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["c"]["Name"] = [[ProfileMenu]];
+DRR["d"] = Instance.new("ImageButton", DRR["c"]);
+DRR["d"]["BorderSizePixel"] = 0;
+DRR["d"]["AutoButtonColor"] = false;
+DRR["d"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["d"]["Size"] = UDim2.new(0.23481373488903046, 0, 0.682426393032074, 0);
+DRR["d"]["Name"] = [[PlayerProfile]];
+DRR["d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["d"]["Position"] = UDim2.new(0.015024710446596146, 0, 0.18421050906181335, 0);
+DRR["e"] = Instance.new("UICorner", DRR["d"]);
+DRR["e"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+DRR["f"] = Instance.new("UIGradient", DRR["d"]);
+DRR["f"]["Rotation"] = 90;
+DRR["f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(154, 154, 154)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(231, 231, 231))};
+DRR["10"] = Instance.new("ImageLabel", DRR["d"]);
+DRR["10"]["BorderSizePixel"] = 0;
+DRR["10"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["10"]["Size"] = UDim2.new(0.16644950211048126, 0, 0.8032786846160889, 0);
+DRR["10"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["10"]["Position"] = UDim2.new(0.03799999877810478, 0, 0.1420000046491623, 0);
+DRR["11"] = Instance.new("UIAspectRatioConstraint", DRR["10"]);
+DRR["11"]["AspectRatio"] = 0.9842342734336853;
+DRR["12"] = Instance.new("UICorner", DRR["10"]);
+DRR["12"]["CornerRadius"] = UDim.new(100, 0);
+DRR["13"] = Instance.new("UIGradient", DRR["10"]);
+DRR["13"]["Rotation"] = 90;
+DRR["13"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(213, 213, 213)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["14"] = Instance.new("TextLabel", DRR["d"]);
+DRR["14"]["TextWrapped"] = true;
+DRR["14"]["BorderSizePixel"] = 0;
+DRR["14"]["TextScaled"] = true;
+DRR["14"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["14"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["14"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DRR["14"]["TextSize"] = 14;
+DRR["14"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["14"]["AutomaticSize"] = Enum.AutomaticSize.X;
+DRR["14"]["Size"] = UDim2.new(0.7192937135696411, 0, 0.41530051827430725, 0);
+DRR["14"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["14"]["Text"] = [[PlayerName]];
+DRR["14"]["BackgroundTransparency"] = 1;
+DRR["14"]["Position"] = UDim2.new(0.23957718908786774, 0, 0.27320244908332825, 0);
+DRR["15"] = Instance.new("UIListLayout", DRR["c"]);
+DRR["15"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DRR["15"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DRR["15"]["Padding"] = UDim.new(0.014999999664723873, 0);
+DRR["15"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+DRR["16"] = Instance.new("UIPadding", DRR["c"]);
+DRR["16"]["PaddingLeft"] = UDim.new(0.014000000432133675, 0);
+DRR["17"] = Instance.new("ImageButton", DRR["c"]);
+DRR["17"]["BorderSizePixel"] = 0;
+DRR["17"]["AutoButtonColor"] = false;
+DRR["17"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["17"]["Size"] = UDim2.new(0.10328257083892822, 0, 0.682426393032074, 0);
+DRR["17"]["Name"] = [[Clock]];
+DRR["17"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["17"]["Position"] = UDim2.new(0.26031631231307983, 0, 0.158786803483963, 0);
+DRR["18"] = Instance.new("UICorner", DRR["17"]);
+DRR["18"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+DRR["19"] = Instance.new("UIGradient", DRR["17"]);
+DRR["19"]["Rotation"] = 90;
+DRR["19"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(154, 154, 154)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(231, 231, 231))};
+DRR["1a"] = Instance.new("TextLabel", DRR["17"]);
+DRR["1a"]["TextWrapped"] = true;
+DRR["1a"]["BorderSizePixel"] = 0;
+DRR["1a"]["TextScaled"] = true;
+DRR["1a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["1a"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DRR["1a"]["TextSize"] = 14;
+DRR["1a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["1a"]["AutomaticSize"] = Enum.AutomaticSize.X;
+DRR["1a"]["Size"] = UDim2.new(0.33195531368255615, 0, 0.41530051827430725, 0);
+DRR["1a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["1a"]["Text"] = [[00:00]];
+DRR["1a"]["BackgroundTransparency"] = 1;
+DRR["1a"]["Position"] = UDim2.new(0.21512815356254578, 0, 0.27320244908332825, 0);
+DRR["1b"] = Instance.new("ImageButton", DRR["c"]);
+DRR["1b"]["BorderSizePixel"] = 0;
+DRR["1b"]["AutoButtonColor"] = false;
+DRR["1b"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["1b"]["Size"] = UDim2.new(0.23481373488903046, 0, 0.682426393032074, 0);
+DRR["1b"]["Name"] = [[Title]];
+DRR["1b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["1b"]["Position"] = UDim2.new(0.015024710446596146, 0, 0.18421050906181335, 0);
+DRR["1c"] = Instance.new("UICorner", DRR["1b"]);
+DRR["1c"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+DRR["1d"] = Instance.new("UIGradient", DRR["1b"]);
+DRR["1d"]["Rotation"] = 90;
+DRR["1d"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(154, 154, 154)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(231, 231, 231))};
+DRR["1e"] = Instance.new("TextLabel", DRR["1b"]);
+DRR["1e"]["TextWrapped"] = true;
+DRR["1e"]["BorderSizePixel"] = 0;
+DRR["1e"]["TextScaled"] = true;
+DRR["1e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["1e"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.SemiBold, Enum.FontStyle.Normal);
+DRR["1e"]["TextSize"] = 14;
+DRR["1e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["1e"]["AutomaticSize"] = Enum.AutomaticSize.X;
+DRR["1e"]["Size"] = UDim2.new(0.7192937135696411, 0, 0.41530051827430725, 0);
+DRR["1e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["1e"]["Text"] = [[DarkRay]];
+DRR["1e"]["BackgroundTransparency"] = 1;
+DRR["1e"]["Position"] = UDim2.new(0.13402166962623596, 0, 0.27320244908332825, 0);
+DRR["1f"] = Instance.new("TextButton", DRR["2"]);
+DRR["1f"]["Active"] = false;
+DRR["1f"]["BorderSizePixel"] = 0;
+DRR["1f"]["AutoButtonColor"] = false;
+DRR["1f"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["1f"]["Selectable"] = false;
+DRR["1f"]["Size"] = UDim2.new(0.08402203768491745, 0, 0.4803149402141571, 0);
+DRR["1f"]["Name"] = [[TopBarClose]];
+DRR["1f"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["1f"]["Text"] = [[]];
+DRR["1f"]["Position"] = UDim2.new(0.915977954864502, 0, 0.5196850299835205, 0);
+DRR["20"] = Instance.new("UICorner", DRR["1f"]);
+DRR["20"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["21"] = Instance.new("UIGradient", DRR["1f"]);
+DRR["21"]["Rotation"] = 90;
+DRR["21"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(117, 117, 117)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(218, 218, 218))};
+DRR["22"] = Instance.new("Frame", DRR["1f"]);
+DRR["22"]["BorderSizePixel"] = 0;
+DRR["22"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["22"]["Size"] = UDim2.new(0.2622910141944885, 0, 1, 0);
+DRR["22"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["22"]["Position"] = UDim2.new(0.000002001152552111307, 0, 0, 0);
+DRR["22"]["Name"] = [[idk]];
+DRR["23"] = Instance.new("UIGradient", DRR["22"]);
+DRR["23"]["Rotation"] = 90;
+DRR["23"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(117, 117, 117)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(218, 218, 218))};
+DRR["24"] = Instance.new("UIAspectRatioConstraint", DRR["1f"]);
+DRR["25"] = Instance.new("ImageLabel", DRR["1f"]);
+DRR["25"]["BorderSizePixel"] = 0;
+DRR["25"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["25"]["Image"] = [[rbxassetid://14122651741]];
+DRR["25"]["LayoutOrder"] = 1;
+DRR["25"]["Size"] = UDim2.new(0.5081987380981445, 0, 0.5971601009368896, 0);
+DRR["25"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["25"]["BackgroundTransparency"] = 1;
+DRR["25"]["Position"] = UDim2.new(0.24589963257312775, 0, 0.23339086771011353, 0);
+DRR["26"] = Instance.new("UIAspectRatioConstraint", DRR["25"]);
+DRR["26"]["AspectRatio"] = 0.9836804866790771;
+DRR["27"] = Instance.new("UIAspectRatioConstraint", DRR["2"]);
+DRR["27"]["AspectRatio"] = 5.724700927734375;
+DRR["28"] = Instance.new("Frame", DRR["1"]);
+DRR["28"]["BorderSizePixel"] = 0;
+DRR["28"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["28"]["Size"] = UDim2.new(0.5404488444328308, 0, 0.5745577812194824, 0);
+DRR["28"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["28"]["Position"] = UDim2.new(0.23000000417232513, 0, -0.6119999885559082, 0);
+DRR["28"]["Name"] = [[MainBar]];
+DRR["29"] = Instance.new("UICorner", DRR["28"]);
+DRR["29"]["CornerRadius"] = UDim.new(0.029999999329447746, 0);
+DRR["2a"] = Instance.new("UIGradient", DRR["28"]);
+DRR["2a"]["Rotation"] = 90;
+DRR["2a"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(90, 90, 90)),ColorSequenceKeypoint.new(0.231, Color3.fromRGB(154, 154, 154)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["2b"] = Instance.new("UIAspectRatioConstraint", DRR["28"]);
+DRR["2b"]["AspectRatio"] = 1.7326968908309937;
+DRR["2c"] = Instance.new("Frame", DRR["28"]);
+DRR["2c"]["ZIndex"] = 0;
+DRR["2c"]["BorderSizePixel"] = 0;
+DRR["2c"]["BackgroundTransparency"] = 1;
+DRR["2c"]["LayoutOrder"] = -1;
+DRR["2c"]["Size"] = UDim2.new(1, 0, 1, 0);
+DRR["2c"]["Name"] = [[DropShadowHolder]];
+DRR["2d"] = Instance.new("ImageLabel", DRR["2c"]);
+DRR["2d"]["ZIndex"] = 0;
+DRR["2d"]["BorderSizePixel"] = 0;
+DRR["2d"]["SliceCenter"] = Rect.new(49, 49, 450, 450);
+DRR["2d"]["ScaleType"] = Enum.ScaleType.Slice;
+DRR["2d"]["ImageColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["2d"]["ImageTransparency"] = 0.5;
+DRR["2d"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DRR["2d"]["Image"] = [[rbxassetid://6014261993]];
+DRR["2d"]["Size"] = UDim2.new(1, 47, 1, 47);
+DRR["2d"]["Name"] = [[DropShadow]];
+DRR["2d"]["BackgroundTransparency"] = 1;
+DRR["2d"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DRR["2e"] = Instance.new("ImageLabel", DRR["28"]);
+DRR["2e"]["BorderSizePixel"] = 0;
+DRR["2e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["2e"]["Image"] = [[rbxassetid://14133403065]];
+DRR["2e"]["Size"] = UDim2.new(0.18741475045681, 0, 0.3247329592704773, 0);
+DRR["2e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["2e"]["Name"] = [[Logo]];
+DRR["2e"]["BackgroundTransparency"] = 1;
+DRR["2e"]["Position"] = UDim2.new(0.3991934061050415, 0, 0.33447495102882385, 0);
+DRR["2f"] = Instance.new("UIGradient", DRR["2e"]);
+DRR["2f"]["Rotation"] = 90;
+DRR["2f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 255)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(5, 6, 23))};
+DRR["30"] = Instance.new("Folder", DRR["1"]);
+DRR["31"] = Instance.new("ScrollingFrame", DRR["30"]);
+DRR["31"]["Active"] = true;
+DRR["31"]["BorderSizePixel"] = 0;
+DRR["31"]["CanvasSize"] = UDim2.new(0, 0, 0, 0);
+DRR["31"]["BackgroundColor3"] = Color3.fromRGB(26, 26, 36);
+DRR["31"]["VerticalScrollBarPosition"] = Enum.VerticalScrollBarPosition.Left;
+DRR["31"]["AutomaticCanvasSize"] = Enum.AutomaticSize.Y;
+DRR["31"]["BackgroundTransparency"] = 1;
+DRR["31"]["Size"] = UDim2.new(1, 0, 0.9599999785423279, 0);
+DRR["31"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["31"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["31"]["ScrollBarThickness"] = 0;
+DRR["31"]["Position"] = UDim2.new(0, 0, 0.03999999910593033, 0);
+DRR["31"]["Visible"] = false;
+DRR["31"]["Name"] = [[TabReserved]];
+DRR["32"] = Instance.new("UIListLayout", DRR["31"]);
+DRR["32"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DRR["32"]["Padding"] = UDim.new(0.014999999664723873, 0);
+DRR["32"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+DRR["33"] = Instance.new("ImageButton", DRR["30"]);
+DRR["33"]["BorderSizePixel"] = 0;
+DRR["33"]["AutoButtonColor"] = false;
+DRR["33"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["33"]["Size"] = UDim2.new(0.19896680116653442, 0, 0.6315789818763733, 0);
+DRR["33"]["Name"] = [[TabButtonReserved]];
+DRR["33"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["33"]["Visible"] = false;
+DRR["33"]["Position"] = UDim2.new(0.015000020153820515, 0, 0.18421050906181335, 0);
+DRR["34"] = Instance.new("UICorner", DRR["33"]);
+DRR["34"]["CornerRadius"] = UDim.new(0.30000001192092896, 0);
+DRR["35"] = Instance.new("Frame", DRR["33"]);
+DRR["35"]["BorderSizePixel"] = 0;
+DRR["35"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["35"]["BackgroundTransparency"] = 1;
+DRR["35"]["LayoutOrder"] = 1;
+DRR["35"]["Size"] = UDim2.new(0.6113507151603699, 0, 1.0000001192092896, 0);
+DRR["35"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["35"]["Position"] = UDim2.new(0.26662877202033997, 0, -4.950767973355141e-08, 0);
+DRR["35"]["AutomaticSize"] = Enum.AutomaticSize.X;
+DRR["36"] = Instance.new("TextLabel", DRR["35"]);
+DRR["36"]["TextWrapped"] = true;
+DRR["36"]["BorderSizePixel"] = 0;
+DRR["36"]["TextScaled"] = true;
+DRR["36"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["36"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["36"]["TextSize"] = 14;
+DRR["36"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["36"]["AutomaticSize"] = Enum.AutomaticSize.X;
+DRR["36"]["Size"] = UDim2.new(-0.145383819937706, 0, 0.415300577878952, 0);
+DRR["36"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["36"]["Text"] = [[Tab1]];
+DRR["36"]["BackgroundTransparency"] = 1;
+DRR["36"]["Position"] = UDim2.new(-1.2657674551010132, 0, 0.37021857500076294, 0);
+DRR["37"] = Instance.new("UIListLayout", DRR["35"]);
+DRR["37"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DRR["37"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DRR["37"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DRR["37"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+DRR["38"] = Instance.new("UIGradient", DRR["33"]);
+DRR["38"]["Rotation"] = 90;
+DRR["38"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(154, 154, 154)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(231, 231, 231))};
+DRR["39"] = Instance.new("ImageLabel", DRR["33"]);
+DRR["39"]["BorderSizePixel"] = 0;
+DRR["39"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["39"]["Size"] = UDim2.new(0.19903095066547394, 0, 0.606557309627533, 0);
+DRR["39"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["39"]["BackgroundTransparency"] = 1;
+DRR["39"]["Position"] = UDim2.new(0.1134648397564888, 0, 0.19672130048274994, 0);
+DRR["3a"] = Instance.new("UIAspectRatioConstraint", DRR["39"]);
+DRR["3a"]["AspectRatio"] = 0.9842342734336853;
+DRR["3b"] = Instance.new("UIListLayout", DRR["33"]);
+DRR["3b"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
+DRR["3b"]["FillDirection"] = Enum.FillDirection.Horizontal;
+DRR["3b"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+DRR["3c"] = Instance.new("UIPadding", DRR["33"]);
+DRR["3c"]["PaddingLeft"] = UDim.new(0.10999999940395355, 0);
+DRR["3d"] = Instance.new("Frame", DRR["30"]);
+DRR["3d"]["BorderSizePixel"] = 0;
+DRR["3d"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["3d"]["BackgroundTransparency"] = 0.4000000059604645;
+DRR["3d"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
+DRR["3d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["3d"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.12373435497283936, 0);
+DRR["3d"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DRR["3d"]["Visible"] = false;
+DRR["3d"]["Name"] = [[Dropdown]];
+DRR["3e"] = Instance.new("UICorner", DRR["3d"]);
+DRR["3e"]["CornerRadius"] = UDim.new(0.03999999910593033, 0);
+DRR["3f"] = Instance.new("UIGradient", DRR["3d"]);
+DRR["3f"]["Rotation"] = 90;
+DRR["3f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(89, 89, 89)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(139, 139, 139))};
+DRR["40"] = Instance.new("TextLabel", DRR["3d"]);
+DRR["40"]["TextWrapped"] = true;
+DRR["40"]["BorderSizePixel"] = 0;
+DRR["40"]["TextScaled"] = true;
+DRR["40"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["40"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["40"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["40"]["TextSize"] = 14;
+DRR["40"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["40"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.19094853103160858, 0);
+DRR["40"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["40"]["Text"] = [[Dropdown]];
+DRR["40"]["Name"] = [[Title]];
+DRR["40"]["BackgroundTransparency"] = 1;
+DRR["40"]["Position"] = UDim2.new(0.017191976308822632, 0, 0.10911344736814499, 0);
+DRR["41"] = Instance.new("TextLabel", DRR["3d"]);
+DRR["41"]["TextWrapped"] = true;
+DRR["41"]["BorderSizePixel"] = 0;
+DRR["41"]["TextScaled"] = true;
+DRR["41"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["41"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["41"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["41"]["TextSize"] = 14;
+DRR["41"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["41"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.15457738935947418, 0);
+DRR["41"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["41"]["Text"] = [[List of stuffs.]];
+DRR["41"]["Name"] = [[Description]];
+DRR["41"]["BackgroundTransparency"] = 1;
+DRR["41"]["Position"] = UDim2.new(0.011461317539215088, 0, 0.7547013759613037, 0);
+DRR["42"] = Instance.new("Frame", DRR["3d"]);
+DRR["42"]["BorderSizePixel"] = 0;
+DRR["42"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["42"]["LayoutOrder"] = 10;
+DRR["42"]["Size"] = UDim2.new(0.9684813618659973, 0, 0.29096919298171997, 0);
+DRR["42"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["42"]["Position"] = UDim2.new(0.014326647855341434, 0, 0.34552592039108276, 0);
+DRR["42"]["Name"] = [[DropdownBar]];
+DRR["43"] = Instance.new("UICorner", DRR["42"]);
+DRR["43"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["44"] = Instance.new("UIGradient", DRR["42"]);
+DRR["44"]["Rotation"] = 90;
+DRR["44"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(117, 117, 117)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["45"] = Instance.new("UIStroke", DRR["42"]);
+DRR["45"]["Color"] = Color3.fromRGB(40, 45, 62);
+DRR["46"] = Instance.new("ImageLabel", DRR["42"]);
+DRR["46"]["BorderSizePixel"] = 0;
+DRR["46"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["46"]["Image"] = [[rbxassetid://14122651741]];
+DRR["46"]["Size"] = UDim2.new(0.028106508776545525, 0, 0.59375, 0);
+DRR["46"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["46"]["Name"] = [[Icon]];
+DRR["46"]["Rotation"] = 180;
+DRR["46"]["BackgroundTransparency"] = 1;
+DRR["46"]["Position"] = UDim2.new(0.9589999914169312, 0, 0.21899999678134918, 0);
+DRR["47"] = Instance.new("UIAspectRatioConstraint", DRR["46"]);
+DRR["48"] = Instance.new("TextLabel", DRR["42"]);
+DRR["48"]["TextWrapped"] = true;
+DRR["48"]["BorderSizePixel"] = 0;
+DRR["48"]["TextScaled"] = true;
+DRR["48"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["48"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["48"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["48"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["48"]["Size"] = UDim2.new(1, 0, 0.59375, 0);
+DRR["48"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["48"]["Text"] = [[none]];
+DRR["48"]["Name"] = [[Open]];
+DRR["48"]["BackgroundTransparency"] = 1;
+DRR["48"]["Position"] = UDim2.new(0, 0, 0.21875, 0);
+DRR["49"] = Instance.new("TextButton", DRR["42"]);
+DRR["49"]["BorderSizePixel"] = 0;
+DRR["49"]["AutoButtonColor"] = false;
+DRR["49"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["49"]["Selectable"] = false;
+DRR["49"]["Size"] = UDim2.new(1, 0, 1, 0);
+DRR["49"]["LayoutOrder"] = 10;
+DRR["49"]["Name"] = [[Trigger]];
+DRR["49"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["49"]["Text"] = [[]];
+DRR["49"]["BackgroundTransparency"] = 1;
+DRR["4a"] = Instance.new("Frame", DRR["3d"]);
+DRR["4a"]["BorderSizePixel"] = 0;
+DRR["4a"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["4a"]["LayoutOrder"] = 10;
+DRR["4a"]["Size"] = UDim2.new(0.9700000286102295, 0, 0, 0);
+DRR["4a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["4a"]["Position"] = UDim2.new(0.014326647855341434, 0, 0.6362887620925903, 0);
+DRR["4a"]["Visible"] = false;
+DRR["4a"]["Name"] = [[Box]];
+DRR["4b"] = Instance.new("UIGradient", DRR["4a"]);
+DRR["4b"]["Rotation"] = 90;
+DRR["4b"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(117, 117, 117)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["4c"] = Instance.new("UIStroke", DRR["4a"]);
+DRR["4c"]["Color"] = Color3.fromRGB(40, 45, 62);
+DRR["4d"] = Instance.new("UICorner", DRR["4a"]);
+DRR["4d"]["CornerRadius"] = UDim.new(0.05999999865889549, 0);
+DRR["4e"] = Instance.new("ScrollingFrame", DRR["4a"]);
+DRR["4e"]["Active"] = true;
+DRR["4e"]["ScrollingDirection"] = Enum.ScrollingDirection.Y;
+DRR["4e"]["BorderSizePixel"] = 0;
+DRR["4e"]["CanvasSize"] = UDim2.new(0, 0, 0.10000000149011612, 0);
+DRR["4e"]["MidImage"] = [[]];
+DRR["4e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["4e"]["AutomaticCanvasSize"] = Enum.AutomaticSize.Y;
+DRR["4e"]["BackgroundTransparency"] = 1;
+DRR["4e"]["Size"] = UDim2.new(1, 0, 1, 0);
+DRR["4e"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["4e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["4e"]["ScrollBarThickness"] = 0;
+DRR["4f"] = Instance.new("UIListLayout", DRR["4e"]);
+DRR["4f"]["HorizontalAlignment"] = Enum.HorizontalAlignment.Center;
+DRR["4f"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
+DRR["50"] = Instance.new("Frame", DRR["30"]);
+DRR["50"]["Active"] = true;
+DRR["50"]["BorderSizePixel"] = 0;
+DRR["50"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["50"]["BackgroundTransparency"] = 0.4000000059604645;
+DRR["50"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
+DRR["50"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["50"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.12373435497283936, 0);
+DRR["50"]["Visible"] = false;
+DRR["50"]["Name"] = [[Keybind]];
+DRR["51"] = Instance.new("UICorner", DRR["50"]);
+DRR["51"]["CornerRadius"] = UDim.new(0.03999999910593033, 0);
+DRR["52"] = Instance.new("UIGradient", DRR["50"]);
+DRR["52"]["Rotation"] = 90;
+DRR["52"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(113, 113, 113)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(194, 194, 194))};
+DRR["53"] = Instance.new("TextLabel", DRR["50"]);
+DRR["53"]["TextWrapped"] = true;
+DRR["53"]["BorderSizePixel"] = 0;
+DRR["53"]["TextScaled"] = true;
+DRR["53"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["53"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["53"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["53"]["TextSize"] = 14;
+DRR["53"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["53"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.19094853103160858, 0);
+DRR["53"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["53"]["Text"] = [[Keybind]];
+DRR["53"]["Name"] = [[Title]];
+DRR["53"]["BackgroundTransparency"] = 1;
+DRR["53"]["Position"] = UDim2.new(0.017191976308822632, 0, 0.10911344736814499, 0);
+DRR["54"] = Instance.new("TextLabel", DRR["50"]);
+DRR["54"]["TextWrapped"] = true;
+DRR["54"]["BorderSizePixel"] = 0;
+DRR["54"]["TextScaled"] = true;
+DRR["54"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["54"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["54"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["54"]["TextSize"] = 14;
+DRR["54"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["54"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.15457738935947418, 0);
+DRR["54"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["54"]["Text"] = [[Press this square and enter any key to bind!]];
+DRR["54"]["Name"] = [[Description]];
+DRR["54"]["BackgroundTransparency"] = 1;
+DRR["54"]["Position"] = UDim2.new(0.012893982231616974, 0, 0.7092373967170715, 0);
+DRR["55"] = Instance.new("Frame", DRR["50"]);
+DRR["55"]["Active"] = true;
+DRR["55"]["BorderSizePixel"] = 0;
+DRR["55"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["55"]["Size"] = UDim2.new(0.14899714291095734, 0, 0.29096919298171997, 0);
+DRR["55"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["55"]["Position"] = UDim2.new(0.014326647855341434, 0, 0.34552592039108276, 0);
+DRR["55"]["Name"] = [[Bind]];
+DRR["56"] = Instance.new("UICorner", DRR["55"]);
+DRR["56"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["57"] = Instance.new("UIGradient", DRR["55"]);
+DRR["57"]["Rotation"] = 90;
+DRR["57"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(117, 117, 117)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["58"] = Instance.new("UIStroke", DRR["55"]);
+DRR["58"]["Color"] = Color3.fromRGB(40, 45, 62);
+DRR["59"] = Instance.new("TextButton", DRR["55"]);
+DRR["59"]["TextWrapped"] = true;
+DRR["59"]["ZIndex"] = 5;
+DRR["59"]["BorderSizePixel"] = 0;
+DRR["59"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["59"]["TextScaled"] = true;
+DRR["59"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["59"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["59"]["TextColor3"] = Color3.fromRGB(160, 160, 160);
+DRR["59"]["Selectable"] = false;
+DRR["59"]["Size"] = UDim2.new(1, 0, 0.59375, 0);
+DRR["59"]["Name"] = [[Button]];
+DRR["59"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["59"]["Text"] = [[key]];
+DRR["59"]["Position"] = UDim2.new(0, 0, 0.21875, 0);
+DRR["59"]["BackgroundTransparency"] = 0.9900000095367432;
+DRR["5a"] = Instance.new("Frame", DRR["30"]);
+DRR["5a"]["BorderSizePixel"] = 0;
+DRR["5a"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["5a"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.07873434573411942, 0);
+DRR["5a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["5a"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.01806684397161007, 0);
+DRR["5a"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DRR["5a"]["Visible"] = false;
+DRR["5a"]["Name"] = [[Label]];
+DRR["5b"] = Instance.new("UICorner", DRR["5a"]);
+DRR["5b"]["CornerRadius"] = UDim.new(0.33000001311302185, 0);
+DRR["5c"] = Instance.new("UIGradient", DRR["5a"]);
+DRR["5c"]["Rotation"] = 90;
+DRR["5c"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(166, 166, 166)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["5d"] = Instance.new("TextLabel", DRR["5a"]);
+DRR["5d"]["TextWrapped"] = true;
+DRR["5d"]["BorderSizePixel"] = 0;
+DRR["5d"]["TextScaled"] = true;
+DRR["5d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["5d"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["5d"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["5d"]["TextSize"] = 14;
+DRR["5d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["5d"]["Size"] = UDim2.new(0.9668599367141724, 0, 0.5928126573562622, 0);
+DRR["5d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["5d"]["Text"] = [[This is a Label]];
+DRR["5d"]["Name"] = [[Title]];
+DRR["5d"]["BackgroundTransparency"] = 1;
+DRR["5d"]["Position"] = UDim2.new(0.018000036478042603, 0, 0.22100010514259338, 0);
+DRR["5e"] = Instance.new("Frame", DRR["30"]);
+DRR["5e"]["BorderSizePixel"] = 0;
+DRR["5e"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["5e"]["BackgroundTransparency"] = 0.4000000059604645;
+DRR["5e"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
+DRR["5e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["5e"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.12373435497283936, 0);
+DRR["5e"]["Visible"] = false;
+DRR["5e"]["Name"] = [[Slider]];
+DRR["5f"] = Instance.new("UICorner", DRR["5e"]);
+DRR["5f"]["CornerRadius"] = UDim.new(0.03999999910593033, 0);
+DRR["60"] = Instance.new("UIGradient", DRR["5e"]);
+DRR["60"]["Rotation"] = 90;
+DRR["60"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(108, 108, 108)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(232, 232, 232))};
+DRR["61"] = Instance.new("TextLabel", DRR["5e"]);
+DRR["61"]["TextWrapped"] = true;
+DRR["61"]["BorderSizePixel"] = 0;
+DRR["61"]["TextScaled"] = true;
+DRR["61"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["61"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["61"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["61"]["TextSize"] = 14;
+DRR["61"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["61"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.19094853103160858, 0);
+DRR["61"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["61"]["Text"] = [[Speed]];
+DRR["61"]["Name"] = [[Title]];
+DRR["61"]["BackgroundTransparency"] = 1;
+DRR["61"]["Position"] = UDim2.new(0.017191976308822632, 0, 0.10911344736814499, 0);
+DRR["62"] = Instance.new("Frame", DRR["5e"]);
+DRR["62"]["BorderSizePixel"] = 0;
+DRR["62"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["62"]["Size"] = UDim2.new(0.9684813618659973, 0, 0.29096919298171997, 0);
+DRR["62"]["ClipsDescendants"] = true;
+DRR["62"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["62"]["Position"] = UDim2.new(0.014326647855341434, 0, 0.34552592039108276, 0);
+DRR["62"]["Name"] = [[ActualSlider]];
+DRR["63"] = Instance.new("UICorner", DRR["62"]);
+DRR["63"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["64"] = Instance.new("UIGradient", DRR["62"]);
+DRR["64"]["Rotation"] = 90;
+DRR["64"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(64, 64, 64)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(148, 148, 148))};
+DRR["65"] = Instance.new("UIStroke", DRR["62"]);
+DRR["65"]["Color"] = Color3.fromRGB(0, 255, 39);
+DRR["66"] = Instance.new("Frame", DRR["62"]);
+DRR["66"]["BorderSizePixel"] = 0;
+DRR["66"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["66"]["Size"] = UDim2.new(1, 0, 1, 0);
+DRR["66"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["66"]["Position"] = UDim2.new(-0.0010000000474974513, 0, 0.029999999329447746, 0);
+DRR["66"]["Name"] = [[Fill]];
+DRR["67"] = Instance.new("UICorner", DRR["66"]);
+DRR["67"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["68"] = Instance.new("UIGradient", DRR["66"]);
+DRR["68"]["Rotation"] = 90;
+DRR["68"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(107, 107, 107)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["69"] = Instance.new("TextButton", DRR["62"]);
+DRR["69"]["BorderSizePixel"] = 0;
+DRR["69"]["AutoButtonColor"] = false;
+DRR["69"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["69"]["Selectable"] = false;
+DRR["69"]["Size"] = UDim2.new(1, 0, 1, 0);
+DRR["69"]["LayoutOrder"] = 5;
+DRR["69"]["Name"] = [[Trigger]];
+DRR["69"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["69"]["Text"] = [[]];
+DRR["69"]["Position"] = UDim2.new(-0.0010000000474974513, 0, 0.029999999329447746, 0);
+DRR["69"]["BackgroundTransparency"] = 1;
+DRR["6a"] = Instance.new("UICorner", DRR["69"]);
+DRR["6a"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["6b"] = Instance.new("UIGradient", DRR["69"]);
+DRR["6b"]["Rotation"] = 90;
+DRR["6b"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(166, 166, 166)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["6c"] = Instance.new("TextLabel", DRR["62"]);
+DRR["6c"]["TextWrapped"] = true;
+DRR["6c"]["BorderSizePixel"] = 0;
+DRR["6c"]["TextScaled"] = true;
+DRR["6c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["6c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["6c"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["6c"]["TextSize"] = 14;
+DRR["6c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["6c"]["LayoutOrder"] = 3;
+DRR["6c"]["Size"] = UDim2.new(0.9582196474075317, 0, 0.5971987247467041, 0);
+DRR["6c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["6c"]["Text"] = [[100]];
+DRR["6c"]["Name"] = [[Title]];
+DRR["6c"]["BackgroundTransparency"] = 1;
+DRR["6c"]["Position"] = UDim2.new(0.023000000044703484, 0, 0.23100000619888306, 0);
+DRR["6d"] = Instance.new("TextLabel", DRR["5e"]);
+DRR["6d"]["TextWrapped"] = true;
+DRR["6d"]["BorderSizePixel"] = 0;
+DRR["6d"]["TextScaled"] = true;
+DRR["6d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["6d"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["6d"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["6d"]["TextSize"] = 14;
+DRR["6d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["6d"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.15457738935947418, 0);
+DRR["6d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["6d"]["Text"] = [[Changes your walkspeed.]];
+DRR["6d"]["Name"] = [[Description]];
+DRR["6d"]["BackgroundTransparency"] = 1;
+DRR["6d"]["Position"] = UDim2.new(0.015759311616420746, 0, 0.7274229526519775, 0);
+DRR["6e"] = Instance.new("Frame", DRR["30"]);
+DRR["6e"]["BorderSizePixel"] = 0;
+DRR["6e"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["6e"]["BackgroundTransparency"] = 0.4000000059604645;
+DRR["6e"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
+DRR["6e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["6e"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.12373435497283936, 0);
+DRR["6e"]["Visible"] = false;
+DRR["6e"]["Name"] = [[Textbox]];
+DRR["6f"] = Instance.new("UICorner", DRR["6e"]);
+DRR["6f"]["CornerRadius"] = UDim.new(0.03999999910593033, 0);
+DRR["70"] = Instance.new("UIGradient", DRR["6e"]);
+DRR["70"]["Rotation"] = 90;
+DRR["70"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(89, 89, 89)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(139, 139, 139))};
+DRR["71"] = Instance.new("TextLabel", DRR["6e"]);
+DRR["71"]["TextWrapped"] = true;
+DRR["71"]["BorderSizePixel"] = 0;
+DRR["71"]["TextScaled"] = true;
+DRR["71"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["71"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["71"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["71"]["TextSize"] = 14;
+DRR["71"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["71"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.19094853103160858, 0);
+DRR["71"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["71"]["Text"] = [[Textbox]];
+DRR["71"]["Name"] = [[Title]];
+DRR["71"]["BackgroundTransparency"] = 1;
+DRR["71"]["Position"] = UDim2.new(0.017191976308822632, 0, 0.10911344736814499, 0);
+DRR["72"] = Instance.new("TextLabel", DRR["6e"]);
+DRR["72"]["TextWrapped"] = true;
+DRR["72"]["BorderSizePixel"] = 0;
+DRR["72"]["TextScaled"] = true;
+DRR["72"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["72"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["72"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["72"]["TextSize"] = 14;
+DRR["72"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["72"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.15457738935947418, 0);
+DRR["72"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["72"]["Text"] = [[Input and yeah.]];
+DRR["72"]["Name"] = [[Description]];
+DRR["72"]["BackgroundTransparency"] = 1;
+DRR["72"]["Position"] = UDim2.new(0.012893982231616974, 0, 0.7092373967170715, 0);
+DRR["73"] = Instance.new("Frame", DRR["6e"]);
+DRR["73"]["BorderSizePixel"] = 0;
+DRR["73"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["73"]["Size"] = UDim2.new(0.9684813618659973, 0, 0.29096919298171997, 0);
+DRR["73"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["73"]["Position"] = UDim2.new(0.014326647855341434, 0, 0.34552592039108276, 0);
+DRR["73"]["Name"] = [[TextboxBar]];
+DRR["74"] = Instance.new("UICorner", DRR["73"]);
+DRR["74"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["75"] = Instance.new("UIGradient", DRR["73"]);
+DRR["75"]["Rotation"] = 90;
+DRR["75"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(117, 117, 117)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["76"] = Instance.new("UIStroke", DRR["73"]);
+DRR["76"]["Color"] = Color3.fromRGB(40, 45, 62);
+DRR["77"] = Instance.new("TextBox", DRR["73"]);
+DRR["77"]["PlaceholderColor3"] = Color3.fromRGB(155, 155, 155);
+DRR["77"]["BorderSizePixel"] = 0;
+DRR["77"]["TextWrapped"] = true;
+DRR["77"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["77"]["TextScaled"] = true;
+DRR["77"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["77"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["77"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["77"]["BackgroundTransparency"] = 1;
+DRR["77"]["PlaceholderText"] = [[Input Here...]];
+DRR["77"]["Size"] = UDim2.new(1, 0, 0.59375, 0);
+DRR["77"]["Selectable"] = false;
+DRR["77"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["77"]["Text"] = [[]];
+DRR["77"]["Position"] = UDim2.new(0, 0, 0.21875, 0);
+DRR["77"]["Name"] = [[ActualTextbox]];
+DRR["78"] = Instance.new("Frame", DRR["30"]);
+DRR["78"]["Active"] = true;
+DRR["78"]["BorderSizePixel"] = 0;
+DRR["78"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["78"]["BackgroundTransparency"] = 0.4000000059604645;
+DRR["78"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.15495234727859497, 0);
+DRR["78"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["78"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.6786856055259705, 0);
+DRR["78"]["Visible"] = false;
+DRR["78"]["Name"] = [[Toggle]];
+DRR["79"] = Instance.new("UICorner", DRR["78"]);
+DRR["79"]["CornerRadius"] = UDim.new(0.03999999910593033, 0);
+DRR["7a"] = Instance.new("UIGradient", DRR["78"]);
+DRR["7a"]["Rotation"] = 90;
+DRR["7a"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(109, 109, 109)),ColorSequenceKeypoint.new(0.765, Color3.fromRGB(181, 181, 181)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(217, 217, 217))};
+DRR["7b"] = Instance.new("TextLabel", DRR["78"]);
+DRR["7b"]["TextWrapped"] = true;
+DRR["7b"]["BorderSizePixel"] = 0;
+DRR["7b"]["RichText"] = true;
+DRR["7b"]["TextScaled"] = true;
+DRR["7b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["7b"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["7b"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["7b"]["TextSize"] = 14;
+DRR["7b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["7b"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.323449969291687, 0);
+DRR["7b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["7b"]["Text"] = [[Toggle]];
+DRR["7b"]["Name"] = [[Title]];
+DRR["7b"]["BackgroundTransparency"] = 1;
+DRR["7b"]["Position"] = UDim2.new(0.015759311616420746, 0, 0.18482854962348938, 0);
+DRR["7c"] = Instance.new("TextLabel", DRR["78"]);
+DRR["7c"]["TextWrapped"] = true;
+DRR["7c"]["BorderSizePixel"] = 0;
+DRR["7c"]["TextScaled"] = true;
+DRR["7c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["7c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["7c"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["7c"]["TextSize"] = 14;
+DRR["7c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["7c"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.26184046268463135, 0);
+DRR["7c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["7c"]["Text"] = [[Toggle I and O xd]];
+DRR["7c"]["Name"] = [[Description]];
+DRR["7c"]["BackgroundTransparency"] = 1;
+DRR["7c"]["Position"] = UDim2.new(0.011461318470537663, 0, 0.5852904319763184, 0);
+DRR["7d"] = Instance.new("Frame", DRR["78"]);
+DRR["7d"]["BorderSizePixel"] = 0;
+DRR["7d"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["7d"]["Size"] = UDim2.new(0.03868212550878525, 0, 0.42860323190689087, 0);
+DRR["7d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["7d"]["Position"] = UDim2.new(0.92550128698349, 0, 0.27990657091140747, 0);
+DRR["7d"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DRR["7d"]["Name"] = [[Label]];
+DRR["7e"] = Instance.new("UICorner", DRR["7d"]);
+DRR["7e"]["CornerRadius"] = UDim.new(0.33000001311302185, 0);
+DRR["7f"] = Instance.new("UIGradient", DRR["7d"]);
+DRR["7f"]["Rotation"] = 90;
+DRR["7f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(166, 166, 166)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["80"] = Instance.new("UIStroke", DRR["7d"]);
+DRR["80"]["Color"] = Color3.fromRGB(40, 45, 62);
+DRR["80"]["Thickness"] = 2.4000000953674316;
+DRR["80"]["ApplyStrokeMode"] = Enum.ApplyStrokeMode.Border;
+DRR["81"] = Instance.new("TextButton", DRR["7d"]);
+DRR["81"]["BorderSizePixel"] = 0;
+DRR["81"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["81"]["Selectable"] = false;
+DRR["81"]["Size"] = UDim2.new(1, 0, 1, 0);
+DRR["81"]["Name"] = [[Label]];
+DRR["81"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["81"]["Text"] = [[]];
+DRR["81"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+DRR["81"]["BackgroundTransparency"] = 1;
+DRR["82"] = Instance.new("UICorner", DRR["81"]);
+DRR["82"]["CornerRadius"] = UDim.new(0.33000001311302185, 0);
+DRR["83"] = Instance.new("UIGradient", DRR["81"]);
+DRR["83"]["Rotation"] = 90;
+DRR["83"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(166, 166, 166)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["84"] = Instance.new("TextButton", DRR["30"]);
+DRR["84"]["BorderSizePixel"] = 0;
+DRR["84"]["AutoButtonColor"] = false;
+DRR["84"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["84"]["Selectable"] = false;
+DRR["84"]["Visible"] = false;
+DRR["84"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.15495234727859497, 0);
+DRR["84"]["Name"] = [[Button]];
+DRR["84"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["84"]["Text"] = [[]];
+DRR["84"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.6786856055259705, 0);
+DRR["84"]["BackgroundTransparency"] = 0.4000000059604645;
+DRR["85"] = Instance.new("UICorner", DRR["84"]);
+DRR["85"]["CornerRadius"] = UDim.new(0.03999999910593033, 0);
+DRR["86"] = Instance.new("UIGradient", DRR["84"]);
+DRR["86"]["Rotation"] = 90;
+DRR["86"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(109, 109, 109)),ColorSequenceKeypoint.new(0.765, Color3.fromRGB(181, 181, 181)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(217, 217, 217))};
+DRR["87"] = Instance.new("TextLabel", DRR["84"]);
+DRR["87"]["TextWrapped"] = true;
+DRR["87"]["BorderSizePixel"] = 0;
+DRR["87"]["RichText"] = true;
+DRR["87"]["TextScaled"] = true;
+DRR["87"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["87"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["87"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["87"]["TextSize"] = 14;
+DRR["87"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["87"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.323449969291687, 0);
+DRR["87"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["87"]["Text"] = [[Button]];
+DRR["87"]["Name"] = [[Title]];
+DRR["87"]["BackgroundTransparency"] = 1;
+DRR["87"]["Position"] = UDim2.new(0.015759311616420746, 0, 0.18482854962348938, 0);
+DRR["88"] = Instance.new("TextLabel", DRR["84"]);
+DRR["88"]["TextWrapped"] = true;
+DRR["88"]["BorderSizePixel"] = 0;
+DRR["88"]["TextScaled"] = true;
+DRR["88"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["88"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["88"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["88"]["TextSize"] = 14;
+DRR["88"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["88"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.26184046268463135, 0);
+DRR["88"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["88"]["Text"] = [[Hello! i'm a button :D]];
+DRR["88"]["Name"] = [[Description]];
+DRR["88"]["BackgroundTransparency"] = 1;
+DRR["88"]["Position"] = UDim2.new(0.011461318470537663, 0, 0.5852904319763184, 0);
+DRR["89"] = Instance.new("TextButton", DRR["30"]);
+DRR["89"]["Active"] = false;
+DRR["89"]["BorderSizePixel"] = 0;
+DRR["89"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["89"]["Selectable"] = false;
+DRR["89"]["Visible"] = false;
+DRR["89"]["Size"] = UDim2.new(0.9995859265327454, 0, 0.17368526756763458, 0);
+DRR["89"]["Name"] = [[DropdownButton]];
+DRR["89"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["89"]["Position"] = UDim2.new(0.08656254410743713, 0, 0, 0);
+DRR["8a"] = Instance.new("UICorner", DRR["89"]);
+DRR["8a"]["CornerRadius"] = UDim.new(0.20000000298023224, 0);
+DRR["8b"] = Instance.new("UIGradient", DRR["89"]);
+DRR["8b"]["Rotation"] = 90;
+DRR["8b"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(117, 117, 117)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 255, 255))};
+DRR["8c"] = Instance.new("UIStroke", DRR["89"]);
+DRR["8c"]["Color"] = Color3.fromRGB(40, 45, 62);
+DRR["8d"] = Instance.new("TextLabel", DRR["89"]);
+DRR["8d"]["TextWrapped"] = true;
+DRR["8d"]["BorderSizePixel"] = 0;
+DRR["8d"]["TextScaled"] = true;
+DRR["8d"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["8d"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["8d"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["8d"]["TextColor3"] = Color3.fromRGB(160, 160, 160);
+DRR["8d"]["Size"] = UDim2.new(1, 0, 0.59375, 0);
+DRR["8d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["8d"]["Text"] = [[none]];
+DRR["8d"]["Name"] = [[name]];
+DRR["8d"]["BackgroundTransparency"] = 1;
+DRR["8d"]["Position"] = UDim2.new(0, 0, 0.21875, 0);
+DRR["8e"] = Instance.new("TextButton", DRR["1"]);
+DRR["8e"]["BorderSizePixel"] = 0;
+DRR["8e"]["AutoButtonColor"] = false;
+DRR["8e"]["BackgroundColor3"] = Color3.fromRGB(40, 45, 62);
+DRR["8e"]["Selectable"] = false;
+DRR["8e"]["Visible"] = false;
+DRR["8e"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.15495234727859497, 0);
+DRR["8e"]["Name"] = [[Button]];
+DRR["8e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["8e"]["Text"] = [[]];
+DRR["8e"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.6786856055259705, 0);
+DRR["8e"]["BackgroundTransparency"] = 0.4000000059604645;
+DRR["8f"] = Instance.new("UICorner", DRR["8e"]);
+DRR["8f"]["CornerRadius"] = UDim.new(0.03999999910593033, 0);
+DRR["90"] = Instance.new("UIGradient", DRR["8e"]);
+DRR["90"]["Rotation"] = 90;
+DRR["90"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(109, 109, 109)),ColorSequenceKeypoint.new(0.765, Color3.fromRGB(181, 181, 181)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(217, 217, 217))};
+DRR["91"] = Instance.new("TextLabel", DRR["8e"]);
+DRR["91"]["TextWrapped"] = true;
+DRR["91"]["BorderSizePixel"] = 0;
+DRR["91"]["RichText"] = true;
+DRR["91"]["TextScaled"] = true;
+DRR["91"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["91"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["91"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DRR["91"]["TextSize"] = 14;
+DRR["91"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["91"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.323449969291687, 0);
+DRR["91"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["91"]["Text"] = [[Button]];
+DRR["91"]["Name"] = [[Title]];
+DRR["91"]["BackgroundTransparency"] = 1;
+DRR["91"]["Position"] = UDim2.new(0.015759311616420746, 0, 0.18482854962348938, 0);
+DRR["92"] = Instance.new("TextLabel", DRR["8e"]);
+DRR["92"]["TextWrapped"] = true;
+DRR["92"]["BorderSizePixel"] = 0;
+DRR["92"]["TextScaled"] = true;
+DRR["92"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["92"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DRR["92"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Italic);
+DRR["92"]["TextSize"] = 14;
+DRR["92"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["92"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.26184046268463135, 0);
+DRR["92"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["92"]["Text"] = [[Hello! i'm a button :D]];
+DRR["92"]["Name"] = [[Description]];
+DRR["92"]["BackgroundTransparency"] = 1;
+DRR["92"]["Position"] = UDim2.new(0.011461318470537663, 0, 0.5852904319763184, 0);
+DRR["93"] = Instance.new("ModuleScript", DRR["1"]);
+DRR["93"]["Name"] = [[Library]];
+local DRR_REQUIRE = require;
+local DRR_MODULES = {};
+local function require(Module:ModuleScript)
+    local ModuleState = DRR_MODULES[Module];
+    if ModuleState then
+        if not ModuleState.Required then
+            ModuleState.Required = true;
+            ModuleState.Value = ModuleState.Closure();
+        end
+        return ModuleState.Value;
+    end;
+    return DRR_REQUIRE(Module);
+end
+
+DRR_MODULES[DRR["93"]] = {
+Closure = function()
+    local script = DRR["93"];
+local UILIB = {}
+local parent  = script.Parent
+local reserved = parent.Folder
+UILIB.__index = UILIB
+
+local listening = false
+local twServ = game:GetService("TweenService")
+local UIS = game:GetService("UserInputService")
+local GlobalColor1 = Color3.fromRGB(39, 44, 61)
+local GlobalColor2 = Color3.fromRGB(0, 255, 38)
+local closed = false
+
+parent.TopBar.ProfileMenu.PlayerProfile.TextLabel.Text = game:GetService("Players").LocalPlayer.DisplayName
+parent.TopBar.ProfileMenu.PlayerProfile.ImageLabel.Image = game:GetService("Players"):GetUserThumbnailAsync(game.Players.LocalPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size100x100)
+
+function UILIB:Load(name, img, direction)
+	local self = setmetatable({}, UILIB)
+	task.spawn(function()
+			local tw = twServ:Create(parent.MainBar, TweenInfo.new(0.4, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,0.212, 0) })
+			local tw2 = twServ:Create(parent.TopBar, TweenInfo.new(0.7, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Position = UDim2.new(0.23, 0,0.012, 0) })
+			tw:Play()
+			tw.Completed:Wait()
+			task.wait(0.3)
+			tw2:Play()
+	end)
+        task.spawn(function()
+	     while true do
+		task.wait(0.1)
+		parent.TopBar.ProfileMenu.Clock.TextLabel.Text = os.date("%H:%M")
+	     end
+        end)
+	parent.TopBar.ProfileMenu.Title.TextLabel.Text = name
+	if img then
+		parent.MainBar.Logo.Image = img
+	elseif img == "Default" then
+
+	else
+		parent.MainBar.Logo.Image = ""
+		end
+
+	parent.TopBar.TopBarClose.MouseButton1Click:Connect(function()
+		if closed == false then
+			closed = true
+			local tw = twServ:Create(parent.MainBar, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,-0.612, 0) })
+			local tw3 = twServ:Create(parent.TopBar.TopBarClose, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Position = UDim2.new(0.916, 0,0.95, 0) })
+			local tw2 = twServ:Create(parent.TopBar, TweenInfo.new(0.2, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,-0.173, 0) })
+			local twRotate = twServ:Create(parent.TopBar.TopBarClose.ImageLabel, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Rotation = 180 })
+
+			tw:Play()
+			tw.Completed:Wait()
+			tw2:Play()
+			task.wait(0.1)
+			twRotate:Play()
+			tw3:Play()
+			
+		elseif closed == true then
+			closed = false
+			local tw = twServ:Create(parent.MainBar, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,0.212, 0) })
+			local tw3 = twServ:Create(parent.TopBar.TopBarClose, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Position = UDim2.new(0.916, 0,0.52, 0) })
+			local tw2 = twServ:Create(parent.TopBar, TweenInfo.new(0.2, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,0.012, 0) })
+			local twRotate = twServ:Create(parent.TopBar.TopBarClose.ImageLabel, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Rotation = 0 })
+
+			tw:Play()
+			tw.Completed:Wait()
+			tw2:Play()
+			task.wait(0.1)
+			twRotate:Play()
+			tw3:Play()
+		end
+	end)
+
+	function self:Open()
+		local tw = twServ:Create(parent.MainBar, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,0.212, 0) })
+		local tw3 = twServ:Create(parent.TopBar.TopBarClose, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Position = UDim2.new(0.916, 0,0.52, 0) })
+		local tw2 = twServ:Create(parent.TopBar, TweenInfo.new(0.2, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,0.012, 0) })
+		local twRotate = twServ:Create(parent.TopBar.TopBarClose.ImageLabel, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Rotation = 0 })
+
+		tw:Play()
+		tw.Completed:Wait()
+		tw2:Play()
+		task.wait(0.1)
+		twRotate:Play()
+		tw3:Play()
+	end
+
+	function self:Close()
+		local tw = twServ:Create(parent.MainBar, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,-0.612, 0) })
+		local tw3 = twServ:Create(parent.TopBar.TopBarClose, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Position = UDim2.new(0.916, 0,0.95, 0) })
+		local tw2 = twServ:Create(parent.TopBar, TweenInfo.new(0.2, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,-0.173, 0) })
+		local twRotate = twServ:Create(parent.TopBar.TopBarClose.ImageLabel, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Rotation = 180 })
+
+		tw:Play()
+		tw.Completed:Wait()
+		tw2:Play()
+		task.wait(0.1)
+		twRotate:Play()
+		tw3:Play()
+	end
+	function self:HideCloseButton()
+		DRR["1f"].Visible = false
+	end
+        function self:Hide()
+		DDR["1"].Enabled = false
+	end
+	function self:Show()
+		DDR["1"].Enabled = true
+        end
+	function self:Toggle()
+		if closed == false then
+			closed = true
+			local tw = twServ:Create(parent.MainBar, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,-0.612, 0) })
+			local tw3 = twServ:Create(parent.TopBar.TopBarClose, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Position = UDim2.new(0.916, 0,0.95, 0) })
+			local tw2 = twServ:Create(parent.TopBar, TweenInfo.new(0.2, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,-0.173, 0) })
+			local twRotate = twServ:Create(parent.TopBar.TopBarClose.ImageLabel, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Rotation = 180 })
+
+			tw:Play()
+			tw.Completed:Wait()
+			tw2:Play()
+			tw2.Completed:Wait()
+			twRotate:Play()
+			tw3:Play()
+		elseif closed == true then
+			closed = false
+			local tw = twServ:Create(parent.MainBar, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,0.212, 0) })
+			local tw3 = twServ:Create(parent.TopBar.TopBarClose, TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Position = UDim2.new(0.916, 0,0.52, 0) })
+			local tw2 = twServ:Create(parent.TopBar, TweenInfo.new(0.2, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), { Position = UDim2.new(0.23, 0,0.012, 0) })
+			local twRotate = twServ:Create(parent.TopBar.TopBarClose.ImageLabel, TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.In), { Rotation = 0 })
+
+			tw:Play()
+			tw.Completed:Wait()
+			tw2:Play()
+			tw2.Completed:Wait()
+			twRotate:Play()
+			tw3:Play()
+		end
+	end
+	function self:SetTheme(color, color2)
+		for i,v in pairs(parent:GetChildren()) do
+			if v:IsA("GuiObject") then
+				pcall(function()
+					if v.BackgroundColor3 == Color3.fromRGB(39, 44, 61) then
+						v.BackgroundColor3 = color
+						GlobalColor1 = color
+					elseif v.BackgroundColor3 == Color3.fromRGB(0, 255, 38) then
+						v.BackgroundColor3 = color2
+						GlobalColor2 = color2
+					end
+				end)
+			end
+		end
+	end
+end
+
+function UILIB.newTab(name, img)	
+	local self = setmetatable({}, UILIB)
+
+	local newTab = parent.Folder.TabReserved:Clone()
+	newTab.Parent = parent.MainBar
+	newTab.Name = name
+	newTab.Visible = false
+
+	local newTabBtn = parent.Folder.TabButtonReserved:Clone()
+	newTabBtn.Parent = parent.TopBar.ScrollingFrame
+	newTabBtn.Name = name or "Tab"..#parent.MainBar:GetChildren() - 4
+	newTabBtn.Frame.TextLabel.Text = name
+	if img then
+		newTabBtn.ImageLabel.Image = img
+	else
+		newTabBtn.ImageLabel.Image = ""
+	end
+	newTabBtn.Visible = true
+
+	newTabBtn.MouseButton1Click:Connect(function()
+		for i,v in pairs(parent.TopBar.ScrollingFrame:GetChildren()) do
+			if v:IsA("ImageButton") then
+				local vTab = parent.MainBar:FindFirstChild(v.Name)
+				if v.Name ~= name then
+					local twBtn = twServ:Create(v, TweenInfo.new(0.2), { Transparency = 0.75})
+
+					twBtn:Play()
+
+					vTab.Visible = false
+				elseif v.Name == name then
+					vTab.Visible = true
+					local twBtn = twServ:Create(v, TweenInfo.new(0.2), { Transparency = 0 })
+
+					twBtn:Play()
+
+				end
+			end
+		end
+	end)
+
+	function self.newButton(name, desc, func)
+		local newbtn = reserved.Button:Clone()
+		newbtn.Parent = newTab
+		newbtn.Title.Text = name
+		newbtn.Description.Text = desc
+		newbtn.Visible = true
+		newbtn.Name = name
+
+		newbtn.MouseEnter:Connect(function()
+			local twBtn = twServ:Create(newbtn, TweenInfo.new(0.2), { Transparency = 0 })
+
+			twBtn:Play()
+		end)
+		newbtn.MouseLeave:Connect(function()
+			local twBtn = twServ:Create(newbtn, TweenInfo.new(0.2), { Transparency = 0.4 })
+
+			twBtn:Play()
+		end)
+		newbtn.MouseButton1Click:Connect(func)
+	end
+
+	function self.newLabel(text)
+		local newLabel = reserved.Label:Clone()
+		newLabel.Parent = newTab
+		newLabel.Visible = true
+		newLabel.Title.Text = text
+
+		return newLabel.Title
+	end
+
+	function self.newInput(name, desc, func)
+		local newInput = reserved.Textbox:Clone()
+		local textbox = newInput.TextboxBar.ActualTextbox
+
+		newInput.MouseEnter:Connect(function()
+			local twBtn = twServ:Create(newInput, TweenInfo.new(0.2), { Transparency = 0 })
+
+			twBtn:Play()
+		end)
+		newInput.MouseLeave:Connect(function()
+			local twBtn = twServ:Create(newInput, TweenInfo.new(0.2), { Transparency = 0.4 })
+
+			twBtn:Play()
+
+		end)
+
+		newInput.Visible = true
+		newInput.Parent = newTab
+		newInput.Title.Text = name
+		newInput.Description.Text = desc
+		newInput.Name = name
+
+		textbox.FocusLost:Connect(function()
+			func(textbox.Text)
+		end)
+	end
+
+	function self.newKeybind(name, desc, func)
+		local newKey = reserved.Keybind:Clone()
+
+		newKey.MouseEnter:Connect(function()
+			local twBtn = twServ:Create(newKey, TweenInfo.new(0.2), { Transparency = 0 })
+
+			twBtn:Play()
+		end)
+		newKey.MouseLeave:Connect(function()
+			local twBtn = twServ:Create(newKey, TweenInfo.new(0.2), { Transparency = 0.4 })
+
+			twBtn:Play()
+		end)
+		newKey.Parent = newTab
+		newKey.Title.Text = name
+		newKey.Name = name
+		newKey.Description.Text = desc
+		newKey.Visible =  true
+
+		local listening = false
+		local a
+
+		newKey.Bind.Button.MouseButton1Click:Connect(function()
+			listening = true
+
+			local function Loop()
+				if listening then
+					newKey.Bind.Button.Text = "."
+				end
+
+				task.wait(0.5)
+				if listening then
+					newKey.Bind.Button.Text = ".."
+				end
+				task.wait(0.5)
+				if listening then
+					newKey.Bind.Button.Text = "..."
+				end
+				task.wait(0.5)
+			end
+
+			task.spawn(function()
+				while listening do
+					Loop()
+				end
+			end)
+
+			a = game:GetService("UserInputService").InputBegan:Connect(function(input, processed)
+				if input.UserInputType == Enum.UserInputType.Keyboard then
+					newKey.Bind.Button.Text = input.KeyCode.Name
+					listening = false
+					a:Disconnect()
+					func(input)
+				elseif input.UserInputType == Enum.UserInputType.MouseButton1 or
+					input.UserInputType == Enum.UserInputType.MouseButton2 or
+					input.UserInputType == Enum.UserInputType.MouseButton3 then
+					newKey.Bind.Button.Text = input.UserInputType.Name
+					listening = false
+					a:Disconnect()
+					func(input)
+				end
+			end)
+		end)
+	end
+
+	function self.newSlider(name, desc, max, manageSlider, func)
+		local newSlider = reserved.Slider:Clone()
+
+		newSlider.MouseEnter:Connect(function()
+			local twBtn = twServ:Create(newSlider, TweenInfo.new(0.2), { Transparency = 0 })
+
+			twBtn:Play()
+		end)
+		newSlider.MouseLeave:Connect(function()
+			local twBtn = twServ:Create(newSlider, TweenInfo.new(0.2), { Transparency = 0.4 })
+
+			twBtn:Play()
+		end)
+		newSlider.Visible = true
+		newSlider.Name = name
+		newSlider.Parent = newTab
+		newSlider.Title.Text = name
+		newSlider.Description.Text = desc
+
+		local Mouse = game.Players.LocalPlayer:GetMouse()
+		local tweenServ = twServ
+
+		local Trigger = newSlider.ActualSlider.Trigger
+		local Label = newSlider.ActualSlider.Title
+		local Fill = newSlider.ActualSlider.Fill
+		local Parent = newSlider.ActualSlider
+
+		local perc
+		local Percent
+		local MouseDown = false
+		local delayTw = 0.3
+
+		local function Update()
+			MouseDown = true
+			repeat
+				task.wait()
+				Percent = math.clamp((Mouse.X - Parent.AbsolutePosition.X) / Parent.AbsoluteSize.X, 0, 1)
+				perc = math.round(Percent * max)
+				if manageSlider == false then
+					Label.Text = perc
+					func(perc)
+				elseif manageSlider == true then
+					Label.Text = perc
+					func(perc, Label)
+				end
+				local tween = tweenServ:Create(Fill, TweenInfo.new(delayTw, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), { Size = UDim2.fromScale(Percent, 1) })
+				tween:Play()
+			until MouseDown == false
+		end
+
+		Trigger.MouseButton1Down:Connect(Update)
+
+		UIS.InputEnded:Connect(function(input)
+			if input.UserInputType ==  Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+				MouseDown = false
+			end
+		end)
+	end
+	
+	function self.newToggle(title, desc, toggle, func)
+		local realToggle = toggle
+		local newToggle = reserved.Toggle:Clone()
+		newToggle.Parent = newTab
+		newToggle.Name = title
+		newToggle.Visible = true
+		newToggle.Title.Text = title
+		newToggle.Description.Text = desc
+		
+		newToggle.MouseEnter:Connect(function()
+			local twBtn = twServ:Create(newToggle, TweenInfo.new(0.2), { Transparency = 0 })
+
+			twBtn:Play()
+		end)
+		newToggle.MouseLeave:Connect(function()
+			local twBtn = twServ:Create(newToggle, TweenInfo.new(0.2), { Transparency = 0.4 })
+
+			twBtn:Play()
+		end)
+		
+		if realToggle == true then
+			newToggle.Label.BackgroundColor3 = GlobalColor2
+		elseif realToggle == false then
+			newToggle.Label.BackgroundColor3 = GlobalColor1
+		end
+		
+		newToggle.Label.Label.MouseButton1Click:Connect(function()
+			
+			if realToggle == true then
+				realToggle = false
+				local twColorOn = twServ:Create(newToggle.Label, TweenInfo.new(0.2), { BackgroundColor3 = GlobalColor1 })
+				twColorOn:Play()
+				
+				func(realToggle)
+			elseif realToggle == false then
+				realToggle = true
+				local twColorOn = twServ:Create(newToggle.Label, TweenInfo.new(0.2), { BackgroundColor3 = GlobalColor2 })
+				twColorOn:Play()
+				
+				func(realToggle)
+			end
+		end)
+	end
+	
+	function self.newDropdown(name, desc, listTable, func)
+		local newdd = reserved.Dropdown:Clone()
+		newdd.Visible = true
+		newdd.Parent = newTab
+		
+		newdd.Name = name
+		newdd.Title.Text = name
+		newdd.Description.Text = desc
+		
+		for i, list in ipairs(listTable) do
+			local newddbtn = reserved.DropdownButton:Clone()
+			newddbtn.Visible = true
+			newddbtn.Parent = newdd.Box.ScrollingFrame
+
+			newddbtn.Name = list
+			newddbtn.name.Text = list
+			task.spawn(function()
+				newddbtn.MouseButton1Click:Connect(function()
+					newdd.DropdownBar.Open.Text = list
+					local twPos = twServ:Create(newdd.Box, TweenInfo.new(0.15), {Size = UDim2.new(0.97, 0,0, 0)})
+					twPos:Play()
+					twPos.Completed:Wait()
+					newdd.Box.Visible = false
+					func(list)
+				end)
+			end)
+		end		
+		
+		newdd.DropdownBar.Trigger.MouseButton1Click:Connect(function()
+			
+			if newdd.Box.Visible == false then
+				newdd.Box.Visible = true
+				local twPos = twServ:Create(newdd.Box, TweenInfo.new(0.15), {Size = UDim2.new(0.97, 0,1.696, 0)})
+				twPos:Play()
+			elseif newdd.Box.Visible == true then
+				local twPos = twServ:Create(newdd.Box, TweenInfo.new(0.15), {Size = UDim2.new(0.97, 0,0, 0)})
+				twPos:Play()
+				twPos.Completed:Wait()
+				newdd.Box.Visible = false
+			end
+		end)
+	end
+
+	return self
+end
+
+return UILIB
+
+end;
+};
+print("=================================")
+print("✅ UI DevHub load Successfully")
+print("=================================")
+return require(DRR["93"]);
