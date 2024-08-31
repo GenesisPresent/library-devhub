@@ -7,7 +7,7 @@
 ในการเริ่มต้น คุณต้องประกาศตัวแปรเพื่อเข้าถึง Library
 
 ```lua
-local DevHubLibrary = loadstring(game:HttpGet(""))()
+local DevHubLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisPresent/library-devhub/Script/library"))()
 ```
 
 หากต้องการโหลด UI เพียงเรียกใช้ฟังก์ชัน:
